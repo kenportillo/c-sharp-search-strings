@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Search-strings/bin/Debug/netcoreapp3.1/Search-strings
+/Users/Hi/Development/C#/Search-strings/bin/Debug/netcoreapp3.1/Search-strings.deps.json
+/Users/Hi/Development/C#/Search-strings/bin/Debug/netcoreapp3.1/Search-strings.runtimeconfig.json
+/Users/Hi/Development/C#/Search-strings/bin/Debug/netcoreapp3.1/Search-strings.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Search-strings/bin/Debug/netcoreapp3.1/Search-strings.dll
+/Users/Hi/Development/C#/Search-strings/bin/Debug/netcoreapp3.1/Search-strings.pdb
+/Users/Hi/Development/C#/Search-strings/obj/Debug/netcoreapp3.1/Search-strings.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Search-strings/obj/Debug/netcoreapp3.1/Search-strings.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Search-strings/obj/Debug/netcoreapp3.1/Search-strings.AssemblyInfo.cs
+/Users/Hi/Development/C#/Search-strings/obj/Debug/netcoreapp3.1/Search-strings.dll
+/Users/Hi/Development/C#/Search-strings/obj/Debug/netcoreapp3.1/Search-strings.pdb
